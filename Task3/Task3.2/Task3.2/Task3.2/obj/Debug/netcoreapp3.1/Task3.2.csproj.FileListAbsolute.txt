@@ -1,0 +1,12 @@
+/Users/artemhuk/Desktop/Sigma/Task3/Task3.2/Task3.2/Task3.2/bin/Debug/netcoreapp3.1/Task3.2.deps.json
+/Users/artemhuk/Desktop/Sigma/Task3/Task3.2/Task3.2/Task3.2/bin/Debug/netcoreapp3.1/Task3.2.runtimeconfig.json
+/Users/artemhuk/Desktop/Sigma/Task3/Task3.2/Task3.2/Task3.2/bin/Debug/netcoreapp3.1/Task3.2.runtimeconfig.dev.json
+/Users/artemhuk/Desktop/Sigma/Task3/Task3.2/Task3.2/Task3.2/bin/Debug/netcoreapp3.1/Task3.2.dll
+/Users/artemhuk/Desktop/Sigma/Task3/Task3.2/Task3.2/Task3.2/bin/Debug/netcoreapp3.1/Task3.2.pdb
+/Users/artemhuk/Desktop/Sigma/Task3/Task3.2/Task3.2/Task3.2/obj/Debug/netcoreapp3.1/Task3.2.csproj.AssemblyReference.cache
+/Users/artemhuk/Desktop/Sigma/Task3/Task3.2/Task3.2/Task3.2/obj/Debug/netcoreapp3.1/Task3.2.AssemblyInfoInputs.cache
+/Users/artemhuk/Desktop/Sigma/Task3/Task3.2/Task3.2/Task3.2/obj/Debug/netcoreapp3.1/Task3.2.AssemblyInfo.cs
+/Users/artemhuk/Desktop/Sigma/Task3/Task3.2/Task3.2/Task3.2/obj/Debug/netcoreapp3.1/Task3.2.csproj.CoreCompileInputs.cache
+/Users/artemhuk/Desktop/Sigma/Task3/Task3.2/Task3.2/Task3.2/obj/Debug/netcoreapp3.1/Task3.2.dll
+/Users/artemhuk/Desktop/Sigma/Task3/Task3.2/Task3.2/Task3.2/obj/Debug/netcoreapp3.1/Task3.2.pdb
+/Users/artemhuk/Desktop/Sigma/Task3/Task3.2/Task3.2/Task3.2/obj/Debug/netcoreapp3.1/Task3.2.genruntimeconfig.cache
